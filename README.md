@@ -1,3 +1,7 @@
+preview link
+
+https://xcz3dmpy6iygdvqmqks5bg.on.drv.tw/drive/travel-website/my%20travel%20website.html
+
 # travel-website
 
 This is my first travel-website and i wrote all html,css and js within one file.
